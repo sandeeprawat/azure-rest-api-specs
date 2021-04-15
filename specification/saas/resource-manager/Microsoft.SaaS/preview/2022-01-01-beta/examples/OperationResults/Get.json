@@ -1,6 +1,6 @@
 {
   "parameters": {
-    "api-version": "2018-03-01-beta",
+    "api-version": "2022-01-01-beta",
     "operationId": "5f35cb4c-8065-45b3-9116-5ba335462e95"
   },
   "responses": {

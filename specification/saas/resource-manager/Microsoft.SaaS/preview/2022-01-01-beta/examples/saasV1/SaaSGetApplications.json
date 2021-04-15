@@ -2,7 +2,7 @@
   "parameters": {
     "subscriptionId": "bc6c2f82-a39d-41b8-a648-71527498a23e",
     "resourceGroupName": "myResourceGroup",
-    "api-version": "2018-03-01-beta"
+    "api-version": "2022-01-01-beta"
   },
   "responses": {
     "200": {

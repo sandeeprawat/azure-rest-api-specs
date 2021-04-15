@@ -1,7 +1,7 @@
 {
   "swagger": "2.0",
   "info": {
-    "version": "2018-03-01-beta",
+    "version": "2022-01-01-beta",
     "title": "SaaS",
     "description": "REST APIs for Azure Marketplace SaaS Offers"
   },
